@@ -134,7 +134,7 @@
     "date-fns": "^3.6.0",
     "dotenv": "^16.4.7",
     "fastembed": "^1.14.4",
-    "hono": "^4.5.1",
+    "hono": "^4.13.7",
     "hono-openapi": "^0.4.6",
     "json-schema": "^0.4.0",
     "json-schema-to-zod": "^2.6.0",
